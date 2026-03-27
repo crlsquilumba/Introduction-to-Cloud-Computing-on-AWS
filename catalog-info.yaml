@@ -5,6 +5,13 @@ metadata:
   description: Introduction to Cloud Computing on AWS
   annotations:
     github.com/project-slug: crlsquilumba/Introduction-to-Cloud-Computing-on-AWS
+    github.com/branch-count: "1"
+    github.com/has-gitflow: "false"
+    github.com/default-branch: "master"
+  links:
+    - url: https://github.com/crlsquilumba/Introduction-to-Cloud-Computing-on-AWS/tree/master
+      title: "✅ master — producción"
+      icon: github
 spec:
   type: library
   lifecycle: experimental
